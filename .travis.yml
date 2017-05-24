@@ -2,7 +2,7 @@ language: c
 compiler:
     - gcc
 install:
-    - pip install conan
+    - pip install --user conan
     - conan user
 
 script:
