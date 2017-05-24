@@ -1,5 +1,7 @@
 # Python 2 Conan Package
 
+[![Build Status](https://travis-ci.org/dcvetko/conan-python2.svg?branch=master)](https://travis-ci.org/dcvetko/conan-python2)
+
 Provides a conan package for Python 2 (https://github.com/python/cpython).
 
 ## How-to
